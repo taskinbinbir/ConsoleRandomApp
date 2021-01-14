@@ -1,0 +1,7 @@
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\bin\Debug\ConsoleRandomApp.exe.config
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\bin\Debug\ConsoleRandomApp.exe
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\bin\Debug\ConsoleRandomApp.pdb
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\obj\Debug\ConsoleRandomApp.csprojAssemblyReference.cache
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\obj\Debug\ConsoleRandomApp.csproj.CoreCompileInputs.cache
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\obj\Debug\ConsoleRandomApp.exe
+C:\Users\taski\source\repos\ConsoleRandomApp\ConsoleRandomApp\obj\Debug\ConsoleRandomApp.pdb
